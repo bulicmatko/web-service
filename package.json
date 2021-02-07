@@ -1,0 +1,26 @@
+{
+  "name": "@bulicmatko/web-service",
+  "version": "0.1.0",
+  "description": "Personal Web Service Starter.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulicmatko/web-service.git"
+  },
+  "keywords": [
+    "typescript",
+    "graphql"
+  ],
+  "author": {
+    "name": "Matko Bulic",
+    "email": "bulicmatko@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bulicmatko/web-service/issues"
+  },
+  "homepage": "https://github.com/bulicmatko/web-service#readme"
+}
